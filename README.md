@@ -1,6 +1,6 @@
 # Discord-IP-Logger
 
-This is a Python IP logger I made that sends the IP's to a Discord webhook.
+This is a Python IP logger that forwards IP's to Discord webhooks.
 
 
 # Features
