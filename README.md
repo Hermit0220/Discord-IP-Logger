@@ -16,7 +16,8 @@ Step 4: Upload the file to your website (you can use external webhosting such as
 
 # Changelog
 Version: v1
-Information: I will be updating this for better use in the future.
+
+# Information: Report Bugs and Errors for more user efficient developement
 
 Developer
 I, herm1t_0220, am the original creator of this IP Logger-Discord Webhook, Do not try to take credit for my coding, please keep the copyright header intact, This code is licensed under the GNU License, but please respect the original developer of this code.
