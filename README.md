@@ -11,7 +11,7 @@ Filters out bots/site crawlers
 # How to use
 Step 1: Contact Author for source code (herm1t_0220) Discord.
 Step 2: Go into the settings of your Discord server, click webhooks and create one then copy the link to it.
-Step 3: Put in the field of $webhookurl = ""; with https://discordapp.com/api/webhooks/ included at the beginning.
+Step 3: Put in the field of { $webhookurl = ""; ) with (https://discordapp.com/api/webhooks/) included at the beginning.
 Step 4: Upload the file to your website (you can use external webhosting such as 000webhost if you dont have a website/domain) this will be further clarified by author himself.
 
 # Changelog
