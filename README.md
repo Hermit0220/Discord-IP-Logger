@@ -1,4 +1,5 @@
 # Discord-IP-Logger
+## By HERMIT
 
 This is a Python IP logger that forwards IP's to Discord webhooks.
 
